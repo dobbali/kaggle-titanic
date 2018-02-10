@@ -1,0 +1,6 @@
+Feature Engineering:
+https://triangleinequality.wordpress.com/2013/09/08/basic-feature-engineering-with-the-titanic-data/
+
+Competition:
+https://www.kaggle.com/c/titanic/data
+
